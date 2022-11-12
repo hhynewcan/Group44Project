@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/round_back.xml" value="0.2985" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.14937759336099585" />
+        <entry key="app/src/main/res/layout/calendar.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/layout/fragment_grocery_list.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/layout/grocery_library.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/layout/grocery_row.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/layout/grocerylist.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/pantry.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/pantrylist_row.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/quick_meal_simple.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/quick_meal_simple_row.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/recipedetails.xml" value="0.11726384364820847" />
+        <entry key="app/src/main/res/layout/recipelist.xml" value="0.3188180404354588" />
+        <entry key="app/src/main/res/layout/reciperow.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/layout/round_back.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/searchrecipe.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/layout/settings.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/welcome_screen.xml" value="0.12" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.396875" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2985" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

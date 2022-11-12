@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/light_orange"
+    >
+
+    <SearchView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recipeSearchBox"
+        android:iconifiedByDefault="false"
+        android:queryHint="Search by Recipe Name"
+        >
+
+    </SearchView>
+
+    <Spinner
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner"
+
+        >
+
+    </Spinner>
+    <ListView
+        android:id="@+id/filteredRecipeView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+
+        >
+
+    </ListView>
+
+</LinearLayout>
