@@ -9,7 +9,9 @@ All other components were completed by other teammates.
 The project was uploaded with permission from all teammates.
 
 Installation:
-This is a standard android project. You can run it from MainActivity.
+This is a standard android project. You can run it from MainActivity, or you may install the apk instead.
+Link to apk:
+[RecipeBook APK](https://github.com/hhynewcan/Group44Project/releases/download/Demo/RecipeBook-debug.apk)
 
 Artworks:
 All icons with “icons8” in their file names are from icons8.com.
